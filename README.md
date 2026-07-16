@@ -51,6 +51,10 @@ cleaned_data/
 - `resultados_cv_experto.csv` — tabla comparativa de modelos.
 - `figuras/` — espectrogramas, proyecciones t-SNE/UMAP, PCA/LDA, curvas de regularización, historia de Optuna y matrices de confusión.
 
+## Paper
+
+El estudio completo en formato IEEE está disponible en [`Paper_IEEE_COVID_Tos_UTEC.pdf`](./Paper_IEEE_COVID_Tos_UTEC.pdf).
+
 ## Autores
 
 - Christopher Mendoza
