@@ -50,3 +50,10 @@ cleaned_data/
 - `yamnet_cache.npz` — caché de embeddings YAMNet (opcional).
 - `resultados_cv_experto.csv` — tabla comparativa de modelos.
 - `figuras/` — espectrogramas, proyecciones t-SNE/UMAP, PCA/LDA, curvas de regularización, historia de Optuna y matrices de confusión.
+
+## Autores
+
+- Christopher Mendoza
+- Alex Valdez
+- Piero Freundt
+- Diego Trujillo
