@@ -35,10 +35,13 @@ uv pip install tensorflow tensorflow-hub
 
 ## Estructura de datos esperada
 
+El notebook define `DATA_DIR = "cleaned_data"`. La carpeta ya está incluida en este repositorio:
+
 ```
-data/
-├── Negative/   # audios .wav / .mp3 de pacientes negativos
-└── Positive/   # audios .wav / .mp3 de pacientes positivos
+cleaned_data/
+├── Negative/   # audios .wav / .mp3 de pacientes negativos (1207 muestras)
+├── Positive/   # audios .wav / .mp3 de pacientes positivos (150 muestras)
+└── Unknown/    # audios sin etiqueta confirmada (no usados en el pipeline)
 ```
 
 ## Salidas generadas
